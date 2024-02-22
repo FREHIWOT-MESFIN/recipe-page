@@ -7,7 +7,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/simple-recipe-page-wMfjLZ738W)
 - Live Site URL: [live site URL here](https://frontendmentor-recipe-page.netlify.app/)
 
 ## My process
@@ -22,4 +22,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@FREHIWOT-MESFIN](https://www.frontendmentor.io/profile/FREHIWOT-MESFIN)
